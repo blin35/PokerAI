@@ -1,0 +1,6 @@
+#! /Applications/anaconda3/bin/python
+
+from Table import Table
+from Rulebook import Rulebook
+from Deck import Deck
+import sys
